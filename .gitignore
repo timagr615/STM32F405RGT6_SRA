@@ -1,0 +1,9 @@
+/SWV_export
+/Debug
+.cproject
+.mxproject
+.project
+.settings/
+STM32F405RGTX_FLASH.ld
+STM32F405RGTX_RAM.ld
+sra_stm32f405rgt6 Debug.launch
